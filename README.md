@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sinmiloluwa
 - 👀 I’m interested in PHP, Javascript, Web 3.0, Solidity, react js, Vue, Laravel
-- 🌱 I’m currently learning Node js and Mongo DB
+- 🌱 I’m currently learning Node js, Solidity and Mongo DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: emmasimons141@gmail.com
 
