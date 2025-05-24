@@ -51,18 +51,6 @@
 
 ---
 
-### 🐱 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinmiloluwa&show_icons=true&theme=tokyonight" alt="Sinmiloluwa's GitHub stats" width="400"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinmiloluwa&theme=tokyonight" width="400"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinmiloluwa&layout=compact&theme=tokyonight" width="400"/>
-</p>
-
----
-
 <p align="center">
   <b>"Code, create, rinse, repeat!"</b> <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76B8A&center=true&width=435&lines=Thanks+for+stopping+by!+%F0%9F%91%8B" alt="Thanks for visiting!" />
