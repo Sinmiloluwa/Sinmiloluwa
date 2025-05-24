@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-Laravel-333?style=flat-square&logo=laravel"/>
 <img src="https://img.shields.io/badge/-Flutter-333?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/-Nest-333?style=flat-square&logo=nest"/>
+<img src="https://img.shields.io/badge/-Nest-333?style=flat-square&logo=nest.js"/>
 <!-- Add or remove skills as you wish! -->
 
 ---
